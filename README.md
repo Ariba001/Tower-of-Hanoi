@@ -10,4 +10,4 @@ The Tower of Hanoi is a mathematical puzzle involving three rods and a set of di
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Ariba001/Tower-of-Hanoi/blob/main/towerofhanoi.py>
+   git clone <https://github.com/Ariba001/Tower-of-Hanoi/tree/main>
